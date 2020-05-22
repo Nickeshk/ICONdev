@@ -1,3 +1,3 @@
 # Prerequisites
-Heloo kxa I am nikesh 
+I am nikesh 
 Welcme to my channel
