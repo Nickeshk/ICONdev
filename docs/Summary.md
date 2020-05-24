@@ -2,5 +2,5 @@
 
 1. [Prequisites](README.md)
 
-   a. [Getting Jupyter Notebook](Getting jupyter notebook.md)
+   a. [Getting Jupyter Notebook](docs/Getting jupyter notebook.md)
 
