@@ -3,9 +3,9 @@
  [Introduction](README.md)  
 
 * [Prerequisites](/docs/Prerequisites.md)
- * [Getting Jupyter Notebook](/docs/Getting juypter notebook.md)
- * [Installing ICON SDK](/docs/Installing ICON SDK for Python.md)
-* [Sample SCORE](/docs/Sample SCORE.md) 
+ * [Getting Jupyter Notebook](/docs/Getting-Juypter-Notebook.md)
+ * [Installing ICON SDK](/docs/Installing-python-SDK.md)
+* [Sample SCORE](/docs/SCORE-Update.md) 
    
 
 
