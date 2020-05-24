@@ -1,5 +1,5 @@
 ---
-description - Intro to jupyter
+description: Intro to Jupyter Notebook
 ---
 
 ## INTRODUCTION TO JUPYTER NOTEBOOK
