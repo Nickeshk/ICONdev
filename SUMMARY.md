@@ -16,7 +16,7 @@
  * [SCORE Deployment](/docs/SCORE-Deployment.md) 
  * [SCORE Update](/docs/SCORE-Update.md) 
  * [Calling SCORE Methods](/docs/Calling-SCORE-Methods.md) 
-  * [External Methods](/docs/External-Methods.md) 
+  * [External Method](/docs/External-Method.md) 
   * [External Payable Method](/docs/External-Payable-Method.md) 
   * [External Readonly Method](/docs/External-Readonly-Method.md) 
  * [ICX Transfer](/docs/ICX-Transfer.md)
